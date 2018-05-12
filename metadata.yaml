@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25165'
     url: http://www.gutenberg.org/2009/agents/25165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22184#More-Tales-in-the-Land-of-Nursery-Rhyme
 gutenberg_issued: '2007-07-31'
 gutenberg_type: Text
 identifiers:
